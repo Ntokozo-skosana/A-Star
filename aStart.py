@@ -71,3 +71,4 @@ def a_star(initial_state, goal_state):
 initial_state = input().strip()
 goal_state = input().strip()
 print(a_star(initial_state, goal_state))
+
